@@ -1,0 +1,29 @@
+#wrapper{
+	width: 1000px;
+	outline: 1px solid #cccccc;
+	padding: 20px;
+	margin: 0 auto;
+}
+#heder{
+	height: 60px;
+	background-color: #E6E6FA;
+	margin-bottom: 12px;
+
+}
+#sitebar{
+	width: 250px;
+	height: 60px;
+	background-color: #E6E6FA;
+	margin-bottom: 12px;
+	float: left;
+}
+#content{
+	height: 60px;
+	background-color: #F0FFF0;
+	margin-bottom: 12px;
+}
+#footer{
+	height: 60px;
+	background-color: #E6E6FA;
+	margin-bottom: 12px;
+}
